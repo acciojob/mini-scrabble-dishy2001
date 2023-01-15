@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+input {
+    border: 3px solid #0F3D3E;
+    box-shadow: 4px 4px 4px #0F3D3E, 0px 3px 15px rgba(1,1,1,.4);
+
+}
